@@ -1,4 +1,4 @@
-﻿using System;
+
 using System.Globalization;
 internal class Program
 {
